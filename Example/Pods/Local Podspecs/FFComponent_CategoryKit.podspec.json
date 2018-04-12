@@ -1,0 +1,22 @@
+{
+  "name": "FFComponent_CategoryKit",
+  "version": "0.1.0",
+  "summary": "A short description of FFComponent_CategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/jiaojiaozhe/FFComponent_CategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jiaojiaozhe": "lanbiao@fengnian.cn"
+  },
+  "source": {
+    "git": "https://github.com/jiaojiaozhe/FFComponent_CategoryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FFComponent_CategoryKit/Classes/**/*"
+}
